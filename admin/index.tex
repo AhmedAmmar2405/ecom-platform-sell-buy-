@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+  <link rel="stylesheet" href="admin.css">
+
+</head>
+<body>
+
+<nav class="navbar navbar-expand-lg navbar-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="interface.html"><h4><b>SELL&BUY</b></h4></a>
+    <button class="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+          <a class="nav-link active" href="#">home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Gerer vendeur</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Gerer Categories&Produits</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="">Demande deposition</a>
+        </li>        
+      </ul>
+    </div>
+  </div>
+</nav>
+</section>
+<span><br></span>
+
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-md-4"></div>
+			<div class="col-md-4"> <h1><center>PAGE ADMIN</center></h1>
+			</div></div>
+	<span><br><br><br></span>
+	<div class="row">
+		<div class="col-md-4"></div>
+
+
+	</div>
+
+</div>
+
+
+</body>
+</html>
